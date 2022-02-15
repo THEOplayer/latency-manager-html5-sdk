@@ -1,6 +1,6 @@
 # latency-manager-html5-sdk
 
-The Latency Manager allows developer to configure a target latency for their low latency HLS or MPEG-DASH stream.
+The Latency Manager allows developers to configure a target latency for their low latency HLS or MPEG-DASH stream.
 This Latency Manager can be used to decrease (or increase) the end-to-end latency, or to synchronize the latency across viewers.
 
 ## Usage
